@@ -141,6 +141,20 @@ Innovative proposal addressing Evidence-based Practice gap in public goods ecosy
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 22/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 11/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 6/10
+
+**Total Score:** 78/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

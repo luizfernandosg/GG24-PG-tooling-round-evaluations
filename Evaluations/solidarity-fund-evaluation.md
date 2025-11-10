@@ -143,6 +143,20 @@ Well-aligned proposal building on existing Solidarity Fund infrastructure ($444k
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 15/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 75/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

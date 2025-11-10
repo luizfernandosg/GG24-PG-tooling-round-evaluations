@@ -138,6 +138,20 @@ Ambitious, high‑leverage infrastructure proposal targeting a real coordination
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 15/25
+- **UX Impact:** 15/20
+- **Product Maturity & Feasibility:** 8/15
+- **Collaboration:** 4/10
+- **Team Track Record:** 6/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 6/10
+
+**Total Score:** 60/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

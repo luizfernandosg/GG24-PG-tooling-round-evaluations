@@ -142,6 +142,20 @@ Well-scoped proposal addressing discoverability UX challenge. Clear focus on spa
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 22/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 7/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 9/10
+
+**Total Score:** 84/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

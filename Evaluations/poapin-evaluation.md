@@ -138,6 +138,20 @@ Good fit for UX and ecosystem adoption: POAP is widely used; better tooling and 
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 11/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 7/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 77/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

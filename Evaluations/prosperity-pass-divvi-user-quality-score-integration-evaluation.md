@@ -142,6 +142,20 @@ Well-scoped integration proposal building on existing Prosperity Pass and Super 
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 15/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 7/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 76/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

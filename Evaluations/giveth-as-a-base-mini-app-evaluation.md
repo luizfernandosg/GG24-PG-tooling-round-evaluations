@@ -12,7 +12,7 @@
 Build and ship a Base Mini App version of Giveth to reduce donor onboarding friction and enable in‑context giving on Base. Scope includes donation flow, project discovery (selected subset), basic profile/sign‑in, and publishing a quickstart/resources for other projects to adopt Mini Apps. Potential additional integrations: EAS attestations for donation receipts/roles, Safe for treasury interaction, Hypercerts for donation receipts.
 
 ### Funding Amount
-Screenshot suggests an "Amount Requested" of approximately $2,000 (engineering/design/infra split), but exact totals are not fully legible. Please confirm final requested amount and itemized breakdown.
+$10,900 requested ($7,900 Front End, $4,500 Back End, $3,500 Project Management & Ops, $1,500 QA). Note: $6,500 has been deducted from original request to make it more feasible, with plans to pursue retroactive funding for the difference.
 
 ### General Impression
 Tight, high‑leverage UX improvement for a known public‑goods tool (Giveth), leveraging Base Mini Apps to reduce steps and increase conversion. Clear potential for measurable impact (#donations, conversion rate) with a feasible build window. Recommend clarifying interop additions (EAS/Hypercerts) to meet the 2‑primitive integration goal.
@@ -135,6 +135,20 @@ Tight, high‑leverage UX improvement for a known public‑goods tool (Giveth), 
 - Risk mitigation/fallback: Add alternatives if listing delayed (web‑embedded Mini App / direct link beta).
 
 **Assessment:** Moderate → Strong
+
+---
+
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 7/10
+- **Team Track Record:** 6/10
+- **Measurement Plan:** 7/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 77/100
 
 ---
 

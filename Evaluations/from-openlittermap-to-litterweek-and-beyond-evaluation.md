@@ -12,7 +12,7 @@
 Build on OpenLitterMap to launch "LitterWeek" and related public-goods initiatives; create resources, guides, and coordination flows to scale citizen science litter mapping and community action. Integrations appear to include impact reporting via Karma GAP and use of open data/standards for citizen science. Additional primitives mentioned are unclear from the screenshot.
 
 ### Funding Amount
-Unclear from screenshot. Budget sections show categories (research, design, development, project management, outreach) with line items; total request not legible. Please confirm total ask and category amounts.
+$10,000 requested (budget breakdown not detailed in proposal - proposer mentions hiring developers and community/socials/strategy roles with this funding)
 
 ### General Impression
 Strong, mission-aligned project with demonstrated traction in citizen science and open data. Clear community/public benefit and education angle. Proposal appears thoughtful with deliverables and examples, but technical interoperability plans and precise budget/timeline require clarification.
@@ -135,6 +135,20 @@ Strong, mission-aligned project with demonstrated traction in citizen science an
 - Risk mitigation/fallback: Not shown; include dependency backup plans.
 
 **Assessment:** Moderate (pending budget clarity)
+
+---
+
+## Rubric Scores
+
+- **Interoperability:** 15/25
+- **UX Impact:** 12/20
+- **Product Maturity & Feasibility:** 8/15
+- **Collaboration:** 4/10
+- **Team Track Record:** 6/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 6/10
+
+**Total Score:** 57/100
 
 ---
 

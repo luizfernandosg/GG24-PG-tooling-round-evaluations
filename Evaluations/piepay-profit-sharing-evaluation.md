@@ -143,6 +143,20 @@ Well-scoped incremental improvements to existing PiePay system. Clear focus on U
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 11/25
+- **UX Impact:** 15/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 3/10
+- **Team Track Record:** 6/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 61/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

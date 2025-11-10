@@ -12,7 +12,7 @@
 Ship Hey.xyz mobile + developer tooling to reduce friction for onchain social (likely Lens). Deliverables include launching a verified‑creators mobile app, publishing a quickstart site + SDK, exposing developer APIs, and integrating recognized primitives (EAS, Hypercerts, Safe/Zodiac). Goal: improve onboarding, identity/permissions, and composable social actions.
 
 ### Funding Amount
-Two scenarios visible; small scenario shows ~$5,000 (design/engineering/PM split). A larger scenario (~$35,000) with expanded scope (mobile apps, SDK, integrations, analytics, ops) is also listed. Please confirm final amount requested for this round and per‑category allocations.
+$30,000 requested ($6,000 Design, $18,000 Engineering, $4,000 Infra & Deployment, $2,000 Project Management & Ops)
 
 ### General Impression
 Clear UX‑oriented proposal to make onchain social more accessible with high distribution potential. Strong alignment if integrations are concrete and upstreamed. Mobile execution and developer tooling can unlock adoption, but scope should be right‑sized to Dec 9 with measurable outcomes.
@@ -135,6 +135,20 @@ Clear UX‑oriented proposal to make onchain social more accessible with high di
 - Risk mitigation/fallback: Include alternative distribution if app store delays occur.
 
 **Assessment:** Moderate → Strong (with acceptance criteria)
+
+---
+
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 11/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 6/10
+- **Measurement Plan:** 7/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 74/100
 
 ---
 

@@ -6,6 +6,24 @@
 
 ---
 
+## 📊 Evaluation Scores & Rationale
+
+| **Rubric Category** | **Score** |
+| --- | --- |
+| Interoperability | 15/25 |
+| UX Impact | 15/20 |
+| Product Maturity & Feasibility | 8/15 |
+| Collaboration | 6/10 |
+| Team Track Record | 6/10 |
+| Measurement Plan | 6/10 |
+| Budget & Timeline | 6/10 |
+
+### **📊 Average Score: 6.7/10**
+
+### **🔢 Total Score: 62/100**
+
+---
+
 ## Key Aspects
 
 ### Integration/Development in Question
@@ -46,99 +64,107 @@ Compelling programmatic infrastructure bridging builders with real communities/c
 
 ## Rubric-Based Analysis
 
-### Interoperability (25 points)
-**Focus:** Concrete plan + credible execution path to adopt at least 2 primitives; evidence of upstream contributions (schemas, PRs).
+## 🔹 **Interoperability**
 
-**Analysis:**
-- Primitives being integrated: EAS for residency credentials (explicit). Karma GAP implied for reporting. Second integration beyond EAS not clearly specified.
-- Execution credibility: Operational program + platform suggests capability; need specific interop tasks and upstream links.
-- Upstream contribution evidence: Not shown; propose EAS schema PRs and docs contributions.
-- Strength of interoperability approach: Good path if EAS + GAP (or Hypercerts/OpenGrants) are delivered with examples.
+### **Interoperability Score: 15/25**
 
-**Assessment:** Moderate (conditional on specifying second integration + PRs)
+### **Rationale:**
 
----
+EAS is explicitly mentioned for residency credentials, and Karma GAP is implied for reporting. However, a second integration beyond EAS is not clearly specified. The execution credibility is good - an operational program plus platform suggests capability, though specific interop tasks and upstream links are needed.
 
-### UX Impact (20 points)
-**Focus:** Clear definition of the UX problem (onboarding, account abstraction, safety, gas, dev‑ex, privacy, etc.), severity evidence, and test plan.
-
-**Analysis:**
-- UX problem clearly defined: Fragmented onboarding for builders and cities; logistics and recognition.
-- Severity and evidence: Narrative strong; add baseline metrics (time to onboard, partner friction points).
-- Test/validation plan: Not shown; propose user testing of the residency onboarding and partner flows.
-- Impact potential: High for both builders and local partners if flows/templates land.
-
-**Assessment:** Moderate → Strong with validation plan
+Upstream contribution evidence is not shown - the proposal should include EAS schema PRs and documentation contributions. The strength of the interoperability approach shows a good path if EAS plus GAP (or Hypercerts/OpenGrants) are delivered with examples. Overall assessment is moderate, conditional on specifying a second integration and upstream PRs.
 
 ---
 
-### Product Maturity & Feasibility (15 points)
-**Focus:** TRL‑style stage mapping with realistic scope for 4‑6 weeks; risk register & mitigations.
+## 🔹 **UX Impact**
 
-**Analysis:**
-- Current maturity stage: Pre‑MVP to MVP; clear deliverable list.
-- Scope realistic for Dec 9th deadline: Yes, for MVP platform + 1‑2 pilot residencies and EAS credentialing.
-- Risks identified and mitigated: Risk section present (partner timing, ops complexity); expand mitigations.
-- Technical feasibility: Reasonable with focused scope and partner alignment.
+### **UX Impact Score: 15/20**
 
-**Assessment:** Moderate
+### **Rationale:**
 
----
+The UX problem is clearly defined: fragmented onboarding for builders and cities creates friction around logistics and recognition. The narrative is strong, though baseline metrics would strengthen the case - time to onboard and partner friction points should be provided to quantify severity and evidence.
 
-### Collaboration (10 points)
-**Focus:** Named integration partners; MOUs/issues opened; co‑maintenance or shared roadmaps.
-
-**Analysis:**
-- Named partners/collaborators: Categories listed (cities, venues); specific names partially visible but unclear.
-- Evidence of partnerships (MOUs, issues, etc.): Not visible; add links/letters.
-- Shared roadmap elements: Not shown; propose joint dates for pilot residencies.
-- Cross‑project potential: High; can aggregate multiple community tools.
-
-**Assessment:** Moderate (pending evidence)
+A test/validation plan is not shown - the proposal should include user testing of the residency onboarding and partner flows. The impact potential is high for both builders and local partners if flows and templates are successfully delivered. Overall assessment is moderate to strong, conditional on a validation plan being provided.
 
 ---
 
-### Team Track Record (10 points)
-**Focus:** Repos, releases, audits, shipped infra; Proof‑of‑Ship track record.
+## 🔹 **Product Maturity & Feasibility**
 
-**Analysis:**
-- Team background and experience: Multiple team members listed; details hard to read.
-- Previous shipped projects: Not legible; add links to repos and deployments.
-- Repository activity and quality: Provide GitHub links and basic quality signals.
-- Credibility indicators: Provide references/endorsements.
+### **Product Maturity & Feasibility Score: 8/15**
 
-**Assessment:** Moderate (needs links)
+### **Rationale:**
 
----
+The current maturity stage is pre-MVP to MVP, with a clear deliverable list. The scope appears realistic for the Dec 9th deadline - yes, for MVP platform plus 1-2 pilot residencies and EAS credentialing. A risk section is present covering partner timing and operational complexity, though mitigations should be expanded.
 
-### Measurement Plan (10 points)
-**Focus:** Which onchain/offchain metrics will be emitted; EAS schemas; Hypercert minting cadence; reporting via OpenGrants/Karma GAP.
-
-**Analysis:**
-- Impact metrics defined: Some KPIs listed (residencies hosted, builders onboarded, partners engaged); specify exact numbers/targets.
-- Karma GAP integration plan: Likely; provide link and cadence.
-- CIDS framework alignment: Collaboration + UI/UX + Product Growth.
-- Reporting frequency and detail: Propose weekly updates and final report by Dec 9.
-
-**Assessment:** Moderate
+Technical feasibility is reasonable with focused scope and partner alignment. The proposal demonstrates awareness of what's achievable within the timeline. Overall assessment is moderate.
 
 ---
 
-### Budget & Timeline (10 points)
-**Focus:** Value for money; milestone clarity; licenses; acceptance criteria; fallback plan.
+## 🔹 **Collaboration**
 
-**Analysis:**
-- Budget reasonableness: Appears structured with milestone table; totals illegible. Need explicit numbers and rationale.
-- Milestone clarity and achievability: Well framed; add acceptance criteria (e.g., live EAS schema, pilot residency completed with N participants).
-- Timeline to Dec 9th: Feasible for MVP + pilots.
-- Acceptance criteria defined: Not shown; should be explicit per milestone.
-- Risk mitigation/fallback: Present; expand with alternatives.
+### **Collaboration Score: 6/10**
 
-**Assessment:** Moderate
+### **Rationale:**
+
+Categories of partners are listed including cities and venues, though specific names are partially visible but unclear. Evidence of partnerships such as MOUs, issues, or letters is not visible and should be added with links. Shared roadmap elements are not shown - the proposal should include joint dates for pilot residencies to demonstrate coordination.
+
+Despite these gaps, the cross-project potential is high as the platform can aggregate multiple community tools. The proposal would benefit significantly from providing concrete evidence of partnerships. Overall assessment is moderate, pending evidence of partnerships.
 
 ---
 
-## Summary
+## 🔹 **Team Track Record**
+
+### **Team Track Record Score: 6/10**
+
+### **Rationale:**
+
+Multiple team members are listed, though details are hard to read in the source material. Previous shipped projects are not legible - links to repos and deployments should be added. Repository activity and quality information should be provided through GitHub links and basic quality signals.
+
+Credibility indicators such as references or endorsements should be provided. While team members are listed, the proposal would benefit from more concrete evidence of past work. Overall assessment is moderate, conditional on links and evidence being provided.
+
+---
+
+## 🔹 **Measurement Plan**
+
+### **Measurement Plan Score: 6/10**
+
+### **Rationale:**
+
+Some KPIs are listed including residencies hosted, builders onboarded, and partners engaged, though exact numbers and targets should be specified. The Karma GAP integration plan is likely but should provide a link and cadence. CIDS framework alignment fits Collaboration, UI/UX, and Product Growth categories.
+
+Reporting frequency and detail should commit to weekly updates and a final report by Dec 9. While some metrics are identified, the measurement plan needs more specificity on targets and reporting structure. Overall assessment is moderate.
+
+---
+
+## 🔹 **Budget & Timeline**
+
+### **Budget & Timeline Score: 6/10**
+
+### **Rationale:**
+
+The budget appears structured with a milestone table, though totals are illegible. Explicit numbers and rationale are needed. Milestone clarity and achievability are well framed, though acceptance criteria should be added, such as live EAS schema and pilot residency completed with N participants. The timeline to Dec 9th appears feasible for MVP plus pilots.
+
+Acceptance criteria are not shown and should be explicit per milestone. Risk mitigation and fallback planning are present but should be expanded with alternatives. While the structure is reasonable, clarity on totals and acceptance criteria would strengthen this section. Overall assessment is moderate.
+
+---
+
+## 🧾 Final Summary
+
+| **Rubric Category** | **Score (X/Y)** |
+| --- | --- |
+| Interoperability | 15/25 |
+| UX Impact | 15/20 |
+| Product Maturity & Feasibility | 8/15 |
+| Collaboration | 6/10 |
+| Team Track Record | 6/10 |
+| Measurement Plan | 6/10 |
+| Budget & Timeline | 6/10 |
+
+### **📊 Average Score: 6.7/10**
+
+### **🔢 Total Score: 62/100**
+
+### **📝 Summary:**
 
 ### Standout Strengths
 1. Strong real‑world activation and collaboration focus with repeatable residency model

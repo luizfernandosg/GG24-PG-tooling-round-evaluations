@@ -145,6 +145,20 @@ Well-aligned proposal building on existing Pipe infrastructure (previously funde
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 9/10
+
+**Total Score:** 80/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

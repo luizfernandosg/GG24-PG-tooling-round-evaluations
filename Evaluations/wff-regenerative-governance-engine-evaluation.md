@@ -142,6 +142,20 @@ Innovative proposal addressing critical governance validation gap. Strong resear
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 11/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 7/10
+- **Budget & Timeline:** 9/10
+
+**Total Score:** 79/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

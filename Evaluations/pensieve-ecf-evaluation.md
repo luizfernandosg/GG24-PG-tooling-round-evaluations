@@ -142,6 +142,20 @@ Ambitious and innovative proposal addressing collective sense-making challenge. 
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 22/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 7/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 7/10
+
+**Total Score:** 82/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

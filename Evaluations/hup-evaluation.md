@@ -143,6 +143,20 @@ Ambitious proposal addressing critical governance and digital sovereignty challe
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 15/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 11/15
+- **Collaboration:** 4/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 6/10
+
+**Total Score:** 69/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

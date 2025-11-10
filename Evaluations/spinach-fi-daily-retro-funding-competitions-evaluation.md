@@ -141,6 +141,20 @@ Proven track record with $25,000+ distributed to 15+ projects. Clear focus on mu
 
 ---
 
+## Rubric Scores
+
+- **Interoperability:** 19/25
+- **UX Impact:** 18/20
+- **Product Maturity & Feasibility:** 13/15
+- **Collaboration:** 6/10
+- **Team Track Record:** 9/10
+- **Measurement Plan:** 6/10
+- **Budget & Timeline:** 9/10
+
+**Total Score:** 80/100
+
+---
+
 ## Summary
 
 ### Standout Strengths

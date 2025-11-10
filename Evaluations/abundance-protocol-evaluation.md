@@ -6,6 +6,24 @@
 
 ---
 
+## 📊 Evaluation Scores & Rationale
+
+| **Rubric Category** | **Score** |
+| --- | --- |
+| Interoperability | 18/25 |
+| UX Impact | 15/20 |
+| Product Maturity & Feasibility | 8/15 |
+| Collaboration | 6/10 |
+| Team Track Record | 7/10 |
+| Measurement Plan | 6/10 |
+| Budget & Timeline | 6/10 |
+
+### **📊 Average Score: 6.4/10**
+
+### **🔢 Total Score: 66/100**
+
+---
+
 ## Key Aspects
 
 ### Integration/Development in Question
@@ -46,99 +64,107 @@ Well‑aligned proposal targeting a real gap: making it easier to fund and valid
 
 ## Rubric-Based Analysis
 
-### Interoperability (25 points)
-**Focus:** Concrete plan + credible execution path to adopt at least 2 primitives; evidence of upstream contributions (schemas, PRs).
+## 🔹 **Interoperability**
 
-**Analysis:**
-- Primitives being integrated: EAS, Hypercerts, Safe + Zodiac (explicit); Superfluid potential.
-- Execution credibility: Reasonable; needs task list per primitive and links to upstream engagement.
-- Upstream contribution evidence: Not shown; propose EAS schema PRs and Hypercert examples.
-- Strength of interoperability approach: High potential if adapters and examples land.
+### **Interoperability Score: 18/25**
 
-**Assessment:** Moderate → Strong (with concrete integration plan + PRs)
+### **Rationale:**
 
----
+The proposal demonstrates strong intent for interoperability with multiple primitives including EAS, Hypercerts, Safe + Zodiac (explicitly mentioned), and Superfluid as a potential integration. The execution credibility is reasonable, though the proposal needs a task list per primitive and links to upstream engagement to strengthen this aspect.
 
-### UX Impact (20 points)
-**Focus:** Clear definition of the UX problem (onboarding, account abstraction, safety, gas, dev‑ex, privacy, etc.), severity evidence, and test plan.
-
-**Analysis:**
-- UX problem clearly defined: Recognition/funding flows are fragmented; difficulty for contributors and DAOs.
-- Severity and evidence: Narrative strong; add baseline friction metrics and user research.
-- Test/validation plan: Pilots planned; define success metrics and feedback loop.
-- Impact potential: High if flows become turnkey for DAOs and contributors.
-
-**Assessment:** Moderate → Strong (with validation plan)
+Upstream contribution evidence is not shown in the proposal. The team should propose EAS schema PRs and Hypercert examples to demonstrate commitment to contributing back to the ecosystem. The strength of the interoperability approach shows high potential if adapters and examples are successfully delivered. Overall assessment is moderate to strong, conditional on a concrete integration plan and upstream PRs being committed.
 
 ---
 
-### Product Maturity & Feasibility (15 points)
-**Focus:** TRL‑style stage mapping with realistic scope for 4‑6 weeks; risk register & mitigations.
+## 🔹 **UX Impact**
 
-**Analysis:**
-- Current maturity stage: Early to mid; clear deliverables listed.
-- Scope realistic for Dec 9th deadline: Feasible if limited to 2 primitives + quickstart + pilots.
-- Risks identified and mitigated: Risk section present; expand mitigations (e.g., Safe App Store listing timelines).
-- Technical feasibility: Reasonable with focused scope and team capacity.
+### **UX Impact Score: 15/20**
 
-**Assessment:** Moderate
+### **Rationale:**
 
----
+The UX problem is clearly defined: recognition and funding flows are fragmented, creating difficulty for both contributors and DAOs. The narrative around the problem is strong, though the proposal would benefit from baseline friction metrics and user research to quantify the severity and provide stronger evidence.
 
-### Collaboration (10 points)
-**Focus:** Named integration partners; MOUs/issues opened; co‑maintenance or shared roadmaps.
-
-**Analysis:**
-- Named partners/collaborators: Pilot DAOs referenced; names not legible.
-- Evidence of partnerships (MOUs, issues, etc.): Not visible; add links.
-- Shared roadmap elements: Not shown; propose calendar for pilots and listing submissions.
-- Cross‑project potential: High given multi‑primitive integrations.
-
-**Assessment:** Moderate (pending evidence)
+A test/validation plan is present with pilots planned, but success metrics and a feedback loop need to be defined more explicitly. The impact potential is high if these flows become turnkey for DAOs and contributors, addressing a real gap in the public goods ecosystem. Overall assessment is moderate to strong, conditional on a more detailed validation plan being provided.
 
 ---
 
-### Team Track Record (10 points)
-**Focus:** Repos, releases, audits, shipped infra; Proof‑of‑Ship track record.
+## 🔹 **Product Maturity & Feasibility**
 
-**Analysis:**
-- Team background and experience: Includes Solidity engineer with Safe modules contributions, Gitcoin onboarding lead, PM; plus founder/dev lead.
-- Previous shipped projects: Safe modules contributions referenced; add repo links.
-- Repository activity and quality: Provide GitHub org links and quality signals.
-- Credibility indicators: Provide references and prior deployments.
+### **Product Maturity & Feasibility Score: 8/15**
 
-**Assessment:** Moderate → Strong (with links)
+### **Rationale:**
 
----
+The current maturity stage is early to mid, with clear deliverables listed. The scope appears realistic for the Dec 9th deadline if limited to 2 primitives plus quickstart and pilots. A risk section is present, though mitigations should be expanded, particularly around Safe App Store listing timelines which could introduce delays.
 
-### Measurement Plan (10 points)
-**Focus:** Which onchain/offchain metrics will be emitted; EAS schemas; Hypercert minting cadence; reporting via OpenGrants/Karma GAP.
-
-**Analysis:**
-- Impact metrics defined: Not explicit; recommend KPIs (#DAOs piloting, #roles issued via EAS, #Hypercerts minted, time‑to‑recognize contrib).
-- Karma GAP integration plan: GAP link present; define weekly cadence and CIDS mapping.
-- CIDS framework alignment: Interoperability + Product Growth + Collaboration.
-- Reporting frequency and detail: Propose weekly updates and final report by Dec 9.
-
-**Assessment:** Moderate
+Technical feasibility is reasonable with a focused scope and team capacity. The proposal demonstrates awareness of the timeline constraints and has structured the deliverables accordingly. Overall assessment is moderate.
 
 ---
 
-### Budget & Timeline (10 points)
-**Focus:** Value for money; milestone clarity; licenses; acceptance criteria; fallback plan.
+## 🔹 **Collaboration**
 
-**Analysis:**
-- Budget reasonableness: $5k scenario presented; totals for expanded scope unclear.
-- Milestone clarity and achievability: Good outline; define acceptance criteria (e.g., EAS schemas merged, example app live, pilots completed).
-- Timeline to Dec 9th: Achievable if scope is focused.
-- Acceptance criteria defined: Not yet explicit; add per milestone.
-- Risk mitigation/fallback: Present; add backup primitive choices.
+### **Collaboration Score: 6/10**
 
-**Assessment:** Moderate
+### **Rationale:**
+
+The proposal references pilot DAOs as named partners/collaborators, though the names are not legible in the source material. Evidence of partnerships such as MOUs, issues, or letters is not visible and should be added with links. Shared roadmap elements are not shown - the proposal should include a calendar for pilots and listing submissions to demonstrate coordination.
+
+Despite these gaps, the cross-project potential is high given the multi-primitive integrations planned. The proposal would benefit significantly from providing concrete evidence of partnerships and shared planning. Overall assessment is moderate, pending evidence of partnerships.
 
 ---
 
-## Summary
+## 🔹 **Team Track Record**
+
+### **Team Track Record Score: 7/10**
+
+### **Rationale:**
+
+The team background and experience includes a Solidity engineer with Safe modules contributions, a Gitcoin onboarding lead, a PM, plus a founder/dev lead. Previous shipped projects include Safe modules contributions, though repo links should be added to verify and showcase this work.
+
+Repository activity and quality information should be provided through GitHub org links and quality signals. Credibility indicators such as references and prior deployments should be included. While the team composition appears strong, the proposal would benefit from more concrete evidence of past work. Overall assessment is moderate to strong, conditional on links and evidence being provided.
+
+---
+
+## 🔹 **Measurement Plan**
+
+### **Measurement Plan Score: 6/10**
+
+### **Rationale:**
+
+Impact metrics are not explicitly defined in the proposal. Recommended KPIs include number of DAOs piloting, number of roles issued via EAS, number of Hypercerts minted, and time-to-recognize contributions. The Karma GAP integration plan shows a GAP link present, but the proposal should define weekly cadence and CIDS mapping.
+
+CIDS framework alignment is identified as Interoperability, Product Growth, and Collaboration. Reporting frequency and detail should be more specific - the proposal should commit to weekly updates and a final report by Dec 9. While the foundation exists, the measurement plan needs more specificity. Overall assessment is moderate.
+
+---
+
+## 🔹 **Budget & Timeline**
+
+### **Budget & Timeline Score: 6/10**
+
+### **Rationale:**
+
+A $5k scenario is presented in the budget, though totals for expanded scope are unclear. Milestone clarity and achievability show a good outline, but acceptance criteria should be defined explicitly, such as EAS schemas merged, example app live, and pilots completed. The timeline to Dec 9th appears achievable if scope is focused.
+
+Acceptance criteria are not yet explicit and should be added per milestone. Risk mitigation and fallback planning are present, though backup primitive choices should be added. While the budget structure is reasonable, clarity on totals and acceptance criteria would strengthen this section. Overall assessment is moderate.
+
+---
+
+## 🧾 Final Summary
+
+| **Rubric Category** | **Score (X/Y)** |
+| --- | --- |
+| Interoperability | 18/25 |
+| UX Impact | 15/20 |
+| Product Maturity & Feasibility | 8/15 |
+| Collaboration | 6/10 |
+| Team Track Record | 7/10 |
+| Measurement Plan | 6/10 |
+| Budget & Timeline | 6/10 |
+
+### **📊 Average Score: 6.4/10**
+
+### **🔢 Total Score: 66/100**
+
+### **📝 Summary:**
 
 ### Standout Strengths
 1. High‑value problem: funding/recognition workflows for public‑goods contributors
