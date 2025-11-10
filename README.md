@@ -4,12 +4,12 @@ This repository contains detailed evaluations of proposals submitted to the GG24
 
 ## Structure
 
-- `evaluations/` - Individual evaluation reports for each proposal
+- `Evaluations/` - Individual evaluation reports for each proposal
 - `evaluation-process.md` - Evaluation process documentation
 - `evaluation-template.md` - Template used for generating evaluations
 - `review points.md` - Quick reference for evaluation criteria
 
-Each evaluation is saved as: `evaluations/[proposal-name]-evaluation.md`
+Each evaluation is saved as: `Evaluations/[proposal-name]-evaluation.md`
 
 ## Evaluation Process
 
