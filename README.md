@@ -5,7 +5,6 @@ This repository contains detailed evaluations of proposals submitted to the GG24
 ## Structure
 
 - `evaluations/` - Individual evaluation reports for each proposal
-- `251001 PG Tooling GG24.md` - Main tracking document with rubric scores and personal evaluator notes
 - `evaluation-process.md` - Evaluation process documentation
 - `evaluation-template.md` - Template used for generating evaluations
 - `review points.md` - Quick reference for evaluation criteria
