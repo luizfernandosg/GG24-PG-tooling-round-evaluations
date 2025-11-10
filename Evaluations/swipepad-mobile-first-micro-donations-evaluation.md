@@ -1,8 +1,5 @@
 # Evaluation: SwipePad: Mobile-First Micro-Donations for Verified Global South Climate Projects + Regen Eliza AI
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [To be added]
 
 ---
 

@@ -1,8 +1,5 @@
 # Evaluation: Abundance Protocol
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [Unclear from screenshot]
 
 ---
 

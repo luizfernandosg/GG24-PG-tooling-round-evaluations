@@ -1,8 +1,5 @@
 # Evaluation: MUSE - Modular Stack of Evidence
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [To be added]
 
 ---
 

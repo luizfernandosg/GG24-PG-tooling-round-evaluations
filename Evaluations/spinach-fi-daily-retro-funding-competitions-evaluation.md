@@ -1,8 +1,5 @@
 # Evaluation: Spinach.fi - Daily Retro Funding Competitions For Builders
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Ferdinand
-**Proposal Link:** [To be added]
 
 ---
 

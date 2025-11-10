@@ -1,8 +1,5 @@
 # Evaluation: Web3 with analytics for Wordpress tools with PipeWebMonetization
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [To be added]
 
 ---
 

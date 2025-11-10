@@ -1,8 +1,5 @@
 # Evaluation: Prosperity Pass <> Divvi - User Quality Score Integration
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [To be added]
 
 ---
 

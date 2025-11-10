@@ -1,8 +1,5 @@
 # Evaluation: Bloom Network — Local Action Rewards: Scaling Ethereum Public Goods Adoption
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [Unclear from screenshot]
 
 ---
 

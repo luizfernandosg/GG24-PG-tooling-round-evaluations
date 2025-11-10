@@ -1,8 +1,5 @@
 # Evaluation: Silvi SDK — Open and Permissionless Reforestation Infrastructure
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [Unclear from screenshot]
 
 ---
 

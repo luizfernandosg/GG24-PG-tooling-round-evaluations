@@ -1,8 +1,5 @@
 # Evaluation: Enhancing Ecocerts: From Creation to Cross-Chain Funding
 
-**Date:** 2025-10-22
-**Evaluator:** Luiz Fernando
-**Proposal Link:** [To be added]
 
 ---
 
