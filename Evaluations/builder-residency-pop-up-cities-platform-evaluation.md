@@ -24,19 +24,23 @@
 ## Key Aspects
 
 ### Integration/Development in Question
-Platform to coordinate builder residencies and pop-up city activations, matching builders with local partners and venues; includes onboarding flows, residency credentials/attestations, program management, and open resources/templates for cities and communities. Plans to integrate onchain attestations (EAS) for residency credentials and Karma GAP for impact reporting; additional primitives possible but unclear from screenshot.
+Residency attestation platform for open-source and public goods builders, providing verifiable on-chain attestations (EAS on Optimism) for residency metrics, plus a public directory and read API. The platform addresses the problem of tracking builder contributions and progress across email, forums, and Discord by making impact verifiable, citable, and composable across the ecosystem (e.g., Karma GAP, Hypercerts) while reducing overhead for organizers.
 
 ### Funding Amount
-Budget table with multiple milestones is visible, but exact totals and per-line numbers are not fully legible. Please confirm total funding requested and milestone allocations.
+$10,000 requested across 4 milestones:
+- Milestone 1: Core MVP Build - $2,500 (Weeks 1-4)
+- Milestone 2: Metrics & Impact Integration - $2,500 (Weeks 2-6)
+- Milestone 3: Attestation Layer - Pilot Residency - $2,500 (Weeks 5-7)
+- Milestone 4: Open Source Release & Documentation - $2,500 (Weeks 7-8)
 
 ### General Impression
-Compelling programmatic infrastructure bridging builders with real communities/cities. Clear operational plan (residencies, partners, venues) with open-source resources and measurable activities. Strong collaboration focus. Needs concrete interop deliverables and precise budget/acceptance criteria.
+Strong proposal with clear problem definition, concrete technical stack, confirmed partnerships, and well-structured deliverables with acceptance criteria. The proposal demonstrates strong interoperability with multiple primitives (EAS, Hypercerts v2, Gnosis Safe, Karma GAP), has a confirmed pilot (Testing The Commons - Buenos Aires Residency with 50 builders), and provides a clear 8-week timeline with milestones. The team composition is solid with 4 members in defined roles.
 
 ### Alignment with Round
-- Interoperability: Promising via EAS credentials and GAP reporting; specify additional integrations and upstream work.
-- Collaboration: Core to proposal (cities, venues, partners); provide named partners and evidence.
-- UI/UX: Onboarding flows and toolkits can improve community and builder experience.
-- Product Maturity: Feels feasible if scoped to MVP + pilot residencies by Dec 9.
+- Interoperability: Strong - integrates EAS, Hypercerts v2, Gnosis Safe, and Karma GAP
+- Collaboration: Strong - confirmed pilot with Testing The Commons, partnerships with Hypercerts and Karma GAP
+- UI/UX: Strong - addresses onboarding friction and reduces overhead for organizers
+- Product Maturity: Strong - clear MVP scope with realistic 8-week timeline
 
 ---
 
