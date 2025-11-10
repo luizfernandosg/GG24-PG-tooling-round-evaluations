@@ -7,17 +7,17 @@
 
 | **Rubric Category** | **Score** |
 | --- | --- |
-| Interoperability | 15/25 |
-| UX Impact | 15/20 |
-| Product Maturity & Feasibility | 8/15 |
-| Collaboration | 6/10 |
-| Team Track Record | 6/10 |
-| Measurement Plan | 6/10 |
-| Budget & Timeline | 6/10 |
+| Interoperability | 20/25 |
+| UX Impact | 16/20 |
+| Product Maturity | Product Maturity & Feasibility | 8/15 | Feasibility | 12/15 |
+| Collaboration | 8/10 |
+| Team Track Record | 7/10 |
+| Measurement Plan | 8/10 |
+| Budget | Budget & Timeline | 6/10 | Timeline | 9/10 |
 
-### **📊 Average Score: 6.7/10**
+### **📊 Average Score: 8.6/10**
 
-### **🔢 Total Score: 62/100**
+### **🔢 Total Score: 80/100**
 
 ---
 
@@ -149,17 +149,17 @@ Acceptance criteria are not shown and should be explicit per milestone. Risk mit
 
 | **Rubric Category** | **Score (X/Y)** |
 | --- | --- |
-| Interoperability | 15/25 |
-| UX Impact | 15/20 |
-| Product Maturity & Feasibility | 8/15 |
-| Collaboration | 6/10 |
-| Team Track Record | 6/10 |
-| Measurement Plan | 6/10 |
-| Budget & Timeline | 6/10 |
+| Interoperability | 20/25 |
+| UX Impact | 16/20 |
+| Product Maturity | Product Maturity & Feasibility | 8/15 | Feasibility | 12/15 |
+| Collaboration | 8/10 |
+| Team Track Record | 7/10 |
+| Measurement Plan | 8/10 |
+| Budget | Budget & Timeline | 6/10 | Timeline | 9/10 |
 
-### **📊 Average Score: 6.7/10**
+### **📊 Average Score: 8.6/10**
 
-### **🔢 Total Score: 62/100**
+### **🔢 Total Score: 80/100**
 
 ### **📝 Summary:**
 
