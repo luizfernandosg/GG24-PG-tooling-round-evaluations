@@ -1,24 +1,41 @@
 # Evaluation: Spinach.fi - Daily Retro Funding Competitions For Builders
 
+---
+
+## 📊 Evaluation Scores & Rationale
+
+| **Rubric Category** | **Score** |
+| --- | --- |
+| Interoperability | 19/25 |
+| UX Impact | 18/20 |
+| Product Maturity & Feasibility | 13/15 |
+| Collaboration | 6/10 |
+| Team Track Record | 9/10 |
+| Measurement Plan | 6/10 |
+| Budget & Timeline | 9/10 |
+
+### **📊 Average Score: 8.0/10**
+
+### **🔢 Total Score: 80/100**
 
 ---
 
 ## Key Aspects
 
 ### Integration/Development in Question
-Multichain Spinach round development: (1) Develop and launch first multichain round showcasing retro funding across ecosystems; (2) Build multichain competition page with Gardens projects and cross-chain activity; (3) Run Gardens Pool Spinach competition distributing $3,000; (4) Integrate with Prosperity Pass for Celo rewards; (5) Create Hypercerts for participating projects.
+Multichain Spinach round development: (1) Develop and launch first multichain round showcasing retro funding across ecosystems; (2) Build multichain competition page featuring participating Gardens projects and cross-chain activity, including TVL and other analytics; (3) Run a Gardens Pool Spinach competition distributing $3,000 to projects and builders using Gardens for their communities - driving usage, integrations, and grant pool growth across 2-3 supported chains (e.g., ReFi, GreenPill, GoodDollar and other public good ecosystems adopting Gardens); (4) Distribute additional $3,000-$5,000 in rewards to public good projects through traditional Spinach competitions and launch on new chains; (5) Integrate with Prosperity Pass for future Celo rewards; (6) Create Hypercerts for participating projects. All milestones verifiable via spinach.fi, spinach.fi/history, and GitHub.
 
 ### Funding Amount
-$10,000 requested ($7,000 building/deploying, $3,000 builder incentives distributed to projects)
+$10,000 requested ($7,000 building/deploying, $3,000 builder incentives distributed to projects). Breakdown: $4,000 engineering, $1,500 design, $1,500 partnerships/integrations/PM, $3,000 incentives for builders.
 
 ### General Impression
-Proven track record with $25,000+ distributed to 15+ projects. Clear focus on multichain expansion and Gardens integration. However, concerns about multichain deployment scope - tracking file notes "I don't think multichain deployments should be funded in this pool" and proposal lacks details on which chains and implementation approach.
+Proven track record with $25,000+ distributed to 15+ public good projects in Celo ecosystem. Clear focus on multichain expansion and Gardens integration. Strong team with ecosystem connections (Glo Dollar, Good Dollar, Regen, CeloPG). However, multichain deployment scope may not align with round goals emphasizing interoperability integrations rather than multichain infrastructure. The proposal mentions "expanding to Arbitrum and Stellar" but doesn't detail implementation approach.
 
 ### Alignment with Round
-- **Interoperability:** Moderate - integrates Gardens, Hypercerts, Prosperity Pass, Dune Analytics, but focus is on multichain deployment
-- **Collaboration:** Good - Glo Dollar, Good Dollar, Regen, mentions Gardens, CeloPG
-- **UI/UX:** Good - addresses builder funding UX through retroactive funding
-- **Product Maturity:** Good - has proven track record, realistic scope
+- Interoperability: Strong - integrates Gardens (explicit), Hypercerts (explicit), Prosperity Pass (explicit), Dune Analytics, mentions Regenerative.fi, Ubeswap
+- Collaboration: Good - Glo Dollar, Good Dollar, Regen, mentions Gardens, CeloPG, past work with CeloPG
+- UI/UX: Good - addresses builder funding UX through retroactive funding competitions
+- Product Maturity: Good - has proven track record, realistic scope
 
 ---
 
@@ -26,19 +43,21 @@ Proven track record with $25,000+ distributed to 15+ projects. Clear focus on mu
 
 ### What I Like About the Proposal
 - Proven track record: $25,000+ distributed to 15+ projects
-- Clear focus on Gardens integration
-- Addresses real need: builder funding through retroactive competitions
+- Clear focus on Gardens integration with wrap-up by Dec 9
+- Strong team with ecosystem connections (Glo Dollar, Good Dollar, Regen, CeloPG)
 - Good integration plan with Hypercerts and Prosperity Pass
+- Clear verification methods (spinach.fi, history page, GitHub)
 
 ### What Can Be Improved or Made More Clear
 - Explicit multichain implementation details: which chains, what deployment work, current chain status
-- Multichain deployment concerns: tracking file notes this shouldn't be funded in this pool
+- Multichain deployment may not align with round goals - consider refocusing on interoperability integrations
 - More specific measurement plan: KPIs for adoption, distributions, reporting cadence
 - Risk mitigation strategies for multichain complexity
+- Upstream contribution plan (Gardens integration contributions, Hypercerts improvements)
 
 ### Questions
 - Can you clarify multichain implementation: which chains, what deployment work, where is it currently deployed?
-- Given tracking file concern about multichain deployments - can you refocus on interoperability integrations instead?
+- Given round focus on interoperability integrations - can you refocus on Gardens, Hypercerts, Prosperity Pass integrations rather than multichain deployment?
 - What are the expected metrics (projects funded, distributions, TVL) and how will progress be tracked?
 - What is the reporting cadence to Karma GAP and how will metrics be aligned to CIDS framework?
 
@@ -46,150 +65,174 @@ Proven track record with $25,000+ distributed to 15+ projects. Clear focus on mu
 
 ## Rubric-Based Analysis
 
-### Interoperability (25 points)
-**Focus:** Concrete plan + credible execution path to adopt at least 2 primitives; evidence of upstream contributions (schemas, PRs).
+## 🔹 **Interoperability**
 
-**Analysis:**
-- Primitives being integrated: Gardens (explicit), Hypercerts (explicit), Prosperity Pass (explicit), Dune Analytics, mentions Regenerative.fi, Ubeswap. Meets 2+ requirement with Gardens + Hypercerts + Prosperity Pass.
-- Execution credibility: High - has proven track record, clear integration approach, existing infrastructure.
-- Upstream contribution evidence: Not explicitly committed - should specify contributions to Gardens, Hypercerts, or other primitives.
-- Strength of interoperability approach: Strong - integrates multiple primitives, but multichain deployment focus may not align with round goals.
+### **Interoperability Score: 19/25**
 
-**Assessment:** Moderate → Strong (with focus clarification)
+### **Rationale:**
 
----
+The proposal demonstrates strong interoperability through explicit integration with Gardens (explicit competition), Hypercerts (explicit - create Hypercerts for participating projects), Prosperity Pass (explicit - integrate for future Celo rewards), Dune Analytics (existing), and mentions Regenerative.fi and Ubeswap pool data. This meets and exceeds the 2+ primitive requirement with Gardens + Hypercerts + Prosperity Pass + Dune Analytics.
 
-### UX Impact (20 points)
-**Focus:** Clear definition of the UX problem (onboarding, account abstraction, safety, gas, dev-ex, privacy, etc.), severity evidence, and test plan.
+Execution credibility is high - the proposal has proven track record ($25,000+ distributed, 15+ projects funded), clear integration approach, existing infrastructure (spinach.fi live), and mentions past work with CeloPG. The proposal explicitly commits to Gardens competition wrap-up by Dec 9, Hypercerts creation, and Prosperity Pass integration.
 
-**Analysis:**
-- UX problem clearly defined: Builder funding is hard, especially for public goods. Liquidity incentives misaligned (mercenary users vs builders). Retroactive funding rewards verifiable impact.
-- Severity and evidence: Strong narrative - builders struggle with funding, current incentives favor extractors. Proven track record demonstrates impact.
-- Test/validation plan: Mentions Gardens competition and past distributions but doesn't specify success metrics or validation approach.
-- Impact potential: High - addresses builder funding challenge, proven impact with $25k+ distributed.
+However, upstream contribution evidence is not explicitly committed - the proposal should specify contributions to Gardens ecosystem, Hypercerts improvements, Prosperity Pass integration work, or documentation. The strength of the interoperability approach is strong - integrates multiple primitives, but multichain deployment focus may not align with round goals emphasizing interoperability integrations rather than multichain infrastructure.
 
-**Assessment:** Strong
+Overall assessment is moderate to strong - meets requirement with multiple primitives and clear integration plan, but multichain deployment focus may need clarification or refocusing.
 
 ---
 
-### Product Maturity & Feasibility (15 points)
-**Focus:** TRL-style stage mapping with realistic scope for 4-6 weeks; risk register & mitigations.
+## 🔹 **UX Impact**
 
-**Analysis:**
-- Current maturity stage: Production - has live platform (spinach.fi), proven track record, deployed competitions.
-- Scope realistic for Dec 9th deadline: Yes - Gardens competition wrap-up by Dec 9 mentioned, realistic scope.
-- Risks identified and mitigated: Not explicitly addressed - should add risk register (multichain complexity, integration delays, adoption challenges).
-- Technical feasibility: High - existing infrastructure, proven execution, realistic scope.
+### **UX Impact Score: 18/20**
 
-**Assessment:** Strong (with risk register)
+### **Rationale:**
 
----
+The UX problem is clearly defined: funding for builders is hard, especially for those creating public goods or infrastructure that benefit everyone but don't generate direct revenue. Meanwhile, liquidity incentives in DeFi are often misaligned - they flow to end users or whales who withdraw liquidity as soon as rewards stop. This short-term dynamic weakens ecosystems and creates poor UX for builders trying to grow sustainable liquidity.
 
-### Collaboration (10 points)
-**Focus:** Named integration partners; MOUs/issues opened; co-maintenance or shared roadmaps.
+Severity and evidence are strong - the narrative clearly articulates how builders struggle with funding and how current incentives favor mercenary users over builders. The proposal mentions proven track record: $25,000+ distributed to 15+ projects, demonstrating real impact. The proposal addresses this by redirecting incentives to builders rather than extractors, making DeFi growth accountable, transparent, and regenerative.
 
-**Analysis:**
-- Named partners/collaborators: Good - Glo Dollar, Good Dollar, Regen, mentions Gardens, CeloPG, past work with CeloPG.
-- Evidence of partnerships (MOUs, issues, etc.): Mentions past work but doesn't provide evidence of Gardens collaboration commitment or MOUs.
-- Shared roadmap elements: Mentions Gardens competition wrap-up by Dec 9 but doesn't show joint milestone calendar.
-- Cross-project potential: High - retro funding model benefits many builders and projects.
+The test/validation plan mentions Gardens competition wrap-up by Dec 9 and past distributions, but success metrics could be more specific. The proposal should define KPIs such as distributions made, projects funded, TVL tracked, or builder retention. Impact potential is high - addresses builder funding challenge, proven impact with $25k+ distributed, and improves overall Ethereum UX by reducing liquidity churn and deepening long-term pools.
 
-**Assessment:** Moderate (pending evidence)
+Overall assessment is strong - clear problem with strong narrative and proven impact, but validation plan needs more specificity.
 
 ---
 
-### Team Track Record (10 points)
-**Focus:** Repos, releases, audits, shipped infra; Proof-of-Ship track record.
+## 🔹 **Product Maturity & Feasibility**
 
-**Analysis:**
-- Team background and experience: Strong - Dev Lead Jen Goetz (developer dao/nightsweekends, Prev: ZKsync), UX Designer Marge (Prev: head of design at Pinata), Partnerships Lana Dingwall (Glo Dollar, prev: GreenPill Core Steward, Impact Reef, CharmVerse grants, Octant Governance Design).
-- Previous shipped projects: Has live platform (spinach.fi), $25,000+ distributed, 15+ projects funded, GitHub repo provided.
-- Repository activity and quality: GitHub org provided (github.com/SpinachFi), should verify current activity and quality signals.
-- Credibility indicators: Excellent - proven track record, large distributions, strong team credentials, ecosystem connections.
+### **Product Maturity & Feasibility Score: 13/15**
 
-**Assessment:** Strong
+### **Rationale:**
 
----
+The current maturity stage is production - the proposal has live platform (spinach.fi), proven track record ($25,000+ distributed, 15+ projects funded), deployed competitions, and GitHub repo provided. The scope for this round includes multichain round development, Gardens competition, and integrations, which appears realistic for the Dec 9th deadline.
 
-### Measurement Plan (10 points)
-**Focus:** Which onchain/offchain metrics will be emitted; EAS schemas; Hypercert minting cadence; reporting via OpenGrants/Karma GAP.
+The scope appears realistic - Gardens competition wrap-up by Dec 9 is explicitly mentioned, and the proposal builds on existing infrastructure. However, multichain deployment scope may be ambitious - the proposal mentions "expanding to Arbitrum and Stellar" but doesn't detail implementation approach or current chain status.
 
-**Analysis:**
-- Impact metrics defined: Mentions verifying results on-chain and spinach.fi/history but doesn't specify KPIs (distributions made, projects funded, TVL tracked).
-- Karma GAP integration plan: Karma GAP profile linked (https://gap.karmahq.xyz/project/spinach---liquid-retro-funding) but doesn't specify reporting cadence or CIDS framework mapping.
-- CIDS framework alignment: Likely fits Interoperability, Collaboration, and Product Growth categories. Should explicitly map to CIDS.
-- Reporting frequency and detail: Not specified - should define weekly updates and final impact report by Dec 9.
+Risks are not explicitly addressed - the proposal should add risk register covering multichain complexity, integration delays, adoption challenges, and timeline compression. Technical feasibility is high - existing infrastructure, proven execution, realistic scope, and strong team credentials.
 
-**Assessment:** Moderate
+Overall assessment is strong - good foundation with realistic scope, but needs risk register and multichain scope clarification.
 
 ---
 
-### Budget & Timeline (10 points)
-**Focus:** Value for money; milestone clarity; licenses; acceptance criteria; fallback plan.
+## 🔹 **Collaboration**
 
-**Analysis:**
-- Budget reasonableness: $10,000 seems reasonable ($7,000 building, $3,000 incentives). Good breakdown.
-- Milestone clarity and achievability: Clear deliverables (multichain round, Gardens competition, integrations) with verification methods (spinach.fi, GitHub, history page).
-- Timeline to Dec 9th: Explicitly mentions "Gardens round will wrap up by December 9th" - good alignment.
-- Acceptance criteria defined: Good - verification via spinach.fi, history page, GitHub. Mentions all milestones verifiable.
-- Risk mitigation/fallback: Not addressed - should add risk register and mitigation strategies.
+### **Collaboration Score: 6/10**
 
-**Assessment:** Strong (with risk register)
+### **Rationale:**
 
----
+The proposal mentions good collaborations: Glo Dollar, Good Dollar, Regen (all public good funding tokens), mentions Gardens, CeloPG, and past work with CeloPG (https://www.celopg.eco/programs/usdglo-flywheel). The proposal also mentions being part of GoodDollar Builders Program R2.
 
-## Rubric Scores
+However, evidence of partnerships such as MOUs, issues, or letters is not provided - the proposal mentions past work and collaborations but doesn't provide evidence of Gardens collaboration commitment or MOUs. The proposal should add evidence of collaboration commitments. Shared roadmap elements are not shown - the proposal mentions Gardens competition wrap-up by Dec 9 but doesn't show joint milestone calendar or timeline coordination.
 
-- **Interoperability:** 19/25
-- **UX Impact:** 18/20
-- **Product Maturity & Feasibility:** 13/15
-- **Collaboration:** 6/10
-- **Team Track Record:** 9/10
-- **Measurement Plan:** 6/10
-- **Budget & Timeline:** 9/10
-
-**Total Score:** 80/100
+Cross-project potential is high - retro funding model benefits many builders and projects, and multichain expansion could benefit multiple ecosystems. Overall assessment is moderate - good collaboration signals but needs evidence of commitments.
 
 ---
 
-## Summary
+## 🔹 **Team Track Record**
+
+### **Team Track Record Score: 9/10**
+
+### **Rationale:**
+
+The team demonstrates strong background and experience. Dev Lead Jen Goetz is from developer dao/nightsweekends, previously ZKsync. UX Designer Marge was previously head of design at Pinata. Partnerships/project management Lana Dingwall is from Glo Dollar, previously GreenPill Core Steward, Impact Reef, CharmVerse grants, Octant Governance Design.
+
+Previous shipped projects include live platform (spinach.fi), $25,000+ distributed, 15+ projects funded, GitHub repo provided (github.com/SpinachFi), and proven execution capability with active competitions. Repository activity and quality should be verified - GitHub org provided but should verify current activity and quality signals.
+
+Credibility indicators are excellent - proven track record, large distributions, strong team credentials, ecosystem connections (Glo Dollar, Good Dollar, Regen, CeloPG), and demonstrated execution capability. Overall assessment is strong - excellent team credentials with proven execution capability.
+
+---
+
+## 🔹 **Measurement Plan**
+
+### **Measurement Plan Score: 6/10**
+
+### **Rationale:**
+
+Impact metrics are mentioned but not explicitly defined - the proposal mentions verifying results on-chain and on spinach.fi/history, and mentions Gardens competition wrap-up by Dec 9, but doesn't specify KPIs such as distributions made, projects funded, TVL tracked, or builder retention.
+
+The Karma GAP integration plan exists - profile link provided (https://gap.karmahq.xyz/project/spinach---liquid-retro-funding) - but the proposal doesn't specify reporting cadence or CIDS framework mapping. The proposal should define weekly updates and final impact report by Dec 9.
+
+CIDS framework alignment likely fits Interoperability, Collaboration, and Product Growth categories. The proposal should explicitly map metrics to CIDS categories. Reporting frequency and detail are not specified - the proposal should define weekly Karma GAP updates with specific metrics.
+
+Overall assessment is moderate - foundation exists with Karma GAP profile but lacks specificity on metrics and reporting cadence.
+
+---
+
+## 🔹 **Budget & Timeline**
+
+### **Budget & Timeline Score: 9/10**
+
+### **Rationale:**
+
+The budget of $10,000 seems reasonable ($7,000 building/deploying, $3,000 builder incentives). Good breakdown ($4,000 engineering, $1,500 design, $1,500 partnerships/integrations/PM, $3,000 incentives). Note that $3,000 goes directly to builders, not the team.
+
+Milestone clarity and achievability are good - clear deliverables (multichain round, Gardens competition, integrations) with verification methods (spinach.fi, history page, GitHub). The proposal mentions all milestones verifiable via spinach.fi, spinach.fi/history, and GitHub.
+
+Timeline to Dec 9th is explicitly mentioned - "The Gardens round will wrap up by December 9th so the data, payouts and participating projects will all be visible on spinach.fi" - good alignment. Acceptance criteria are good - verification via spinach.fi, history page, GitHub, and mentions all milestones verifiable.
+
+Risk mitigation and fallback planning are not addressed - the proposal should add risk register and mitigation strategies for multichain complexity, integration delays, and adoption challenges.
+
+Overall assessment is strong - reasonable budget with clear deliverables and explicit timeline alignment, but needs risk register.
+
+---
+
+## 🧾 Final Summary
+
+| **Rubric Category** | **Score (X/Y)** |
+| --- | --- |
+| Interoperability | 19/25 |
+| UX Impact | 18/20 |
+| Product Maturity & Feasibility | 13/15 |
+| Collaboration | 6/10 |
+| Team Track Record | 9/10 |
+| Measurement Plan | 6/10 |
+| Budget & Timeline | 9/10 |
+
+### **📊 Average Score: 8.0/10**
+
+### **🔢 Total Score: 80/100**
+
+### **📝 Summary:**
 
 ### Standout Strengths
 1. Proven track record: $25,000+ distributed to 15+ projects
 2. Clear Gardens integration with wrap-up by Dec 9
 3. Strong team with ecosystem connections
+4. Good integration plan with Hypercerts and Prosperity Pass
+5. Clear verification methods (spinach.fi, history page, GitHub)
 
 ### Key Concerns / Red Flags
-1. Multichain deployment concerns: tracking file notes this shouldn't be funded in this pool
+1. Multichain deployment scope may not align with round goals - consider refocusing on interoperability integrations
 2. Multichain implementation details missing: which chains, what work, current status
-3. Measurement plan needs more specificity
+3. Measurement plan needs more specificity (KPIs, reporting cadence)
+4. Upstream contribution plan not explicitly committed
 
 ### Critical Questions for Builder
 1. Can you clarify multichain implementation: which chains, what deployment work, where is it currently deployed?
-2. Given tracking file concern - can you refocus on interoperability integrations (Gardens, Hypercerts, Prosperity Pass) rather than multichain deployment?
-3. What are the expected metrics and how will progress be tracked via Karma GAP?
+2. Given round focus on interoperability integrations - can you refocus on Gardens, Hypercerts, Prosperity Pass integrations rather than multichain deployment?
+3. What are the expected metrics (projects funded, distributions, TVL) and how will progress be tracked via Karma GAP?
+4. What specific upstream contributions will be made to Gardens, Hypercerts, or Prosperity Pass ecosystems?
 
 ---
 
 ## Final Recommendation
 
-**Conviction Level:** Medium (conditional)
+**Conviction Level:** Medium-High (conditional)
 
-**Rationale:** Proven track record with strong team and ecosystem connections. Good Gardens integration. However, multichain deployment focus may not align with round goals per tracking file concerns. Recommend funding contingent on clarifying multichain scope (or refocusing on interoperability), explicit upstream contribution plan, and specific measurement plan.
+**Rationale:** Proven track record with strong team and ecosystem connections. Good Gardens integration with explicit Dec 9 wrap-up. Strong interoperability with multiple primitives. However, multichain deployment focus may not align with round goals emphasizing interoperability integrations. Recommend funding contingent on clarifying multichain scope (or refocusing on interoperability), explicit upstream contribution plan, and specific measurement plan.
 
 **Conditions/Suggestions:**
 - Clarify multichain implementation scope: which chains, what deployment work, or consider refocusing on interoperability integrations instead
-- Specify upstream contribution plan: Gardens integration contributions, Hypercerts improvements, Prosperity Pass integration work
+- Specify upstream contribution plan: Gardens integration contributions, Hypercerts improvements, Prosperity Pass integration work, documentation
 - Define measurement plan: KPIs (distributions made, projects funded, TVL tracked), weekly Karma GAP updates, CIDS framework mapping, final impact report by Dec 9
-- Add risk register with mitigation strategies
+- Add risk register with mitigation strategies for multichain complexity, integration delays, and adoption challenges
 
 ---
 
 ## CIDS Activity Alignment
 
 Which CIDS activity structure(s) does this proposal align with?
-- [x] Interoperability (conditional on focus)
+- [x] Interoperability
 - [x] Collaboration
 - [x] Product Growth
 
-**Notes:** Strong fit if focused on interoperability integrations. Multichain deployment may not align with round goals per tracking file concerns.
+**Notes:** Strong fit if focused on interoperability integrations. Multichain deployment may not align with round goals emphasizing interoperability integrations rather than multichain infrastructure. The proposal demonstrates strong interoperability with Gardens, Hypercerts, and Prosperity Pass, which aligns well with round goals.
